@@ -28,5 +28,5 @@ def question4_7():
     return answer
 
 def question4_8():
-    answer = ['ratio', 'ratio'] # look for this again
+    answer = ['ratio', 'interval'] # look for this again
     return answer
