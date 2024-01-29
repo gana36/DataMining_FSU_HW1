@@ -7,7 +7,6 @@ def question7_2():
     return answer
 
 def question7_3():
-    answer = [(float('-inf'), float(2)), ((float(2), float(3)), (float(3), float(5)), (float(5), float('inf'))]
-    # [(-infinity, 2), [2, 3), [3, 5), [5, infinity)]
+    answer= [("-infinity", 2), (2, 3), (3, 5), (5, "infinity")]
     return answer
 
