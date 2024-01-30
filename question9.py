@@ -7,7 +7,7 @@ def question9_2():
     return answer
 
 def question9_3():
-    answer = 'correlation coefficient'  # check this 
+    answer = 'Euclidean'
     return answer 
 
 def question9_4():
