@@ -1,6 +1,5 @@
 def question4_1():
-    answer = ['nominal', 'ordinal']  # colors could also have order associated 
-    #in the name of wavelength
+    answer = ['nominal', 'nominal']  #colors can do have order (if we consider their frequency)
     return answer
 
 def question4_2():
@@ -8,11 +7,11 @@ def question4_2():
     return answer
 
 def question4_3():
-    answer = ['ratio', 'interval']
+    answer = ['ratio', 'ordinal']
     return answer 
 
 def question4_4():
-    answer = ['ratio', 'interval']
+    answer = ['ratio', 'ordinal']
     return answer
 
 def question4_5():
@@ -28,5 +27,5 @@ def question4_7():
     return answer
 
 def question4_8():
-    answer = ['ratio', 'interval'] # look for this again
+    answer = ['ratio', 'ratio'] 
     return answer
