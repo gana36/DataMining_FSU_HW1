@@ -4,9 +4,7 @@ def question5_1():
             'bin1': [1,2,3,4,5],
             'bin2': [6,7,8],
             'bin3': [9]
-    }
-    #where di, ei, fi are integers. 
-    
+    } 
     return answer
 
 def question5_2():
