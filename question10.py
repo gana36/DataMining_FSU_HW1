@@ -26,7 +26,7 @@ def question10_5():
 
 def question10_6():
     answer=False  # f
-    # the binary atttributes are not asymmetric.
+    # binary values 0 and 1 doesn't give out any particular meaning.
     return answer 
 
 def question10_7():
