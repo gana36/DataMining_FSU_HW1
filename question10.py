@@ -1,6 +1,6 @@
 def question10_1():
     answer=True #a
-    # It doesn't add anything if we deal with the count data
+    # It doesn't add anything if we deal with the count
     return answer
 
 def question10_2():
