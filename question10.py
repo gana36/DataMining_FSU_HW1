@@ -14,8 +14,8 @@ def question10_3():
     return answer
 
 def question10_4():
-    answer=False #d
-    # Certainly not all the outliers need not to be noise.
+    answer=True #d
+    # Certainly all the outliers are not always noise, but in few cases
     return answer
 
 def question10_5():
