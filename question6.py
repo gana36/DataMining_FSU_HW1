@@ -15,6 +15,6 @@ def question6_2():
 def question6_3():
     answer = {
         'equal_width': ['change', 4],
-        'equal_frequency': ['No change', 4]
+        'equal_frequency': ['No change',4]
     }
     return answer
